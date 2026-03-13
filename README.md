@@ -1,0 +1,2 @@
+# chatrooms_demo
+基于web_socket和spring_web依赖的在线多人聊天室java项目，旨在练习作者的后端水平。
